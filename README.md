@@ -6,7 +6,7 @@ You can download the standalone HTML file and double-click it to open it in a br
 
 I only tested with the output of FLUOstar Omega microplate reader (see the example file "Plate384-reader-output-example.csv"). If it does not work for you, just send me your plate reader file, and I will modify the HTML file to work for your plate reader output files.
 
-You can also use this tool in my webpage:
+You can also use this tool in my webpage: https://junli.netlify.app/apps/kasp-cluster/
 
 **Your data is safe. Nothing will be uploaded. Everything is done in your web browser.**
 
